@@ -1,2 +1,2 @@
 # Peredelkino-the-voice-of-contemporaries
-The project visualizes residency data from Peredelkino and feedback left by the cultural center's visitors.
+The project is aimed at visualizing data about Peredelkino residents and visitor reviews.
