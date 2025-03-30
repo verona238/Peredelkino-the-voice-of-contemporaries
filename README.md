@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td width="40%">
-      <img src="Обложка.png" alt="Peredelkino" width="100%" style="border-radius:8px"/>
+      <img src="cover.jpg" alt="Peredelkino" width="100%" style="border-radius:8px"/>
     </td>
     <td width="60%" style="padding-left:20px">
       <h3>Peredelkino Residents & Reviews Visualization</h3>
